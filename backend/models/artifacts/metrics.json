@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "macro_f1": 0.8161,
   "weighted_f1": 0.9896,
@@ -65,4 +66,73 @@
   "best_iteration": 122,
   "full_data_training": true,
   "leakage_free": true
+=======
+{
+  "macro_f1": 0.8161,
+  "weighted_f1": 0.9896,
+  "auc": 0.9967,
+  "critical_precision": 0.8378,
+  "critical_recall": 0.3263,
+  "critical_f1": 0.4697,
+  "train_size": 45519,
+  "val_size": 9104,
+  "per_class": {
+    "Clear": {
+      "precision": 0.9992995236760998,
+      "recall": 0.9990196078431373,
+      "f1-score": 0.9991595461549236,
+      "support": 7140.0
+    },
+    "Critical": {
+      "precision": 0.8378378378378378,
+      "recall": 0.3263157894736842,
+      "f1-score": 0.4696969696969697,
+      "support": 95.0
+    },
+    "Low Risk": {
+      "precision": 0.9642301710730948,
+      "recall": 0.9951845906902087,
+      "f1-score": 0.9794628751974723,
+      "support": 1869.0
+    },
+    "accuracy": 0.9912126537785588,
+    "macro avg": {
+      "precision": 0.9337891775290109,
+      "recall": 0.7735066626690101,
+      "f1-score": 0.816106463683122,
+      "support": 9104.0
+    },
+    "weighted avg": {
+      "precision": 0.9904151343780275,
+      "recall": 0.9912126537785588,
+      "f1-score": 0.9895910023518719,
+      "support": 9104.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      7133,
+      0,
+      7
+    ],
+    [
+      2,
+      31,
+      62
+    ],
+    [
+      3,
+      6,
+      1860
+    ]
+  ],
+  "classes": [
+    "Clear",
+    "Critical",
+    "Low Risk"
+  ],
+  "best_iteration": 122,
+  "full_data_training": true,
+  "leakage_free": true
+>>>>>>> 13699a5bf869325a4d8f4661f1e216b6b5bd997e
 }

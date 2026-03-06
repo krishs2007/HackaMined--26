@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "weight_diff_pct": 0.15778274834156036,
   "weight_diff_abs": 0.009270032867789268,
@@ -13,4 +14,21 @@
   "hs_code_frequency": 0.00236827926710248,
   "is_transit": 0.0,
   "anomaly_score": 0.15901930630207062
+=======
+{
+  "weight_diff_pct": 0.15778274834156036,
+  "weight_diff_abs": 0.009270032867789268,
+  "value_per_kg": 0.012827579863369465,
+  "value_zscore": 0.0069789341650903225,
+  "dwell_zscore": 0.0363667793571949,
+  "Dwell_Time_Hours": 0.04228585213422775,
+  "is_night_declaration": 0.101723313331604,
+  "is_weekend": 0.0,
+  "origin_risk_score": 0.003374541411176324,
+  "importer_risk_score": 0.37040063738822937,
+  "hs_code_risk_score": 0.09760201722383499,
+  "hs_code_frequency": 0.00236827926710248,
+  "is_transit": 0.0,
+  "anomaly_score": 0.15901930630207062
+>>>>>>> 13699a5bf869325a4d8f4661f1e216b6b5bd997e
 }
