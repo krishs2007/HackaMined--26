@@ -1,0 +1,15 @@
+feature,importance
+importer_risk_score,0.37040063738822937
+anomaly_score,0.15901930630207062
+weight_diff_pct,0.15778274834156036
+is_night_declaration,0.101723313331604
+hs_code_risk_score,0.09760201722383499
+Dwell_Time_Hours,0.04228585213422775
+dwell_zscore,0.0363667793571949
+value_per_kg,0.012827579863369465
+weight_diff_abs,0.009270032867789268
+value_zscore,0.0069789341650903225
+origin_risk_score,0.003374541411176324
+hs_code_frequency,0.00236827926710248
+is_weekend,0.0
+is_transit,0.0
